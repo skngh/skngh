@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skngh
 - 👀 I’m interested in web design and audio programming
-- 🌱 I’m currently learning web design and basics of computer science through Harvard's, CS50
+- 🌱 I’m currently learning web design and basics of computer science through Harvard's, CS50, and the odin project
 - 💞️ I’m looking to collaborate on anything! Just wanna gain expereience.
 - 📫 How to reach me: sknight3637@gmail.com
 
