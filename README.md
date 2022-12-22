@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skngh
-- 📫 How to reach me: sknight3637@gmail.com
+- 📫 How to reach me: imsamknight@gmail.com
 
 <!---
 skngh/skngh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
